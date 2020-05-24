@@ -1,0 +1,36 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: XcJlRjjAMe7WoERd4td2weoucd4H1
+ ZzffzDUbR6DxQ0=
+SHA-256-Digest-Manifest: uw1HZVHo9lDxoLXsiucifdeTePjENe4mrBGH0FcjYIk=
+Created-By: 1.8.0_92 (Oracle Corporation)
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA-256-Digest: T7J2zTzAvA4qc9mpKb1Fb2OPdXX4/emAxfYEieoqyxk=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: CGt5VJycIJBodjHNeaPhB5KqdYSBwzez7a4wjuP0FIQ=
+
+Name: cp-files/validTest-695973514.mft
+SHA-256-Digest: LDwmUnt2AKA357BjB4GCs9EaO4XGzDJo+UVfZdPj1e4=
+
+Name: res/layout/activity_main.xml
+SHA-256-Digest: dsz+WrzkQ/6X/G2df3yQ9HDBGTv2/IYK9roTTA+3ziE=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA-256-Digest: igPfZ8lP/AlduHvMPtsox7r+bn7kzptpNDqR5fljfnY=
+
+Name: resources.arsc
+SHA-256-Digest: EX2kvjYE1psCksGb/vFnGXf8sySExaPxFiwlRBXx3FM=
+
+Name: classes.dex
+SHA-256-Digest: J1+v2EBjnXKCN+y2+NkPiBE8uOO21Qo9guzLtGzTWrk=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA-256-Digest: RVBbl5CM410eckEeTOSn0CzvFeCYwkxZu4GYcKx6MIU=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA-256-Digest: eEdD2ysSzTM7BQoEgCMXys4llBhstRksN6bbROVEcp0=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA-256-Digest: JDRxwMzq8L4jYpN1aESgS+jwzyoJQzSgm+bSNSQuCEE=
+

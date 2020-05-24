@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.15",
+  "application": {
+    "name": "ValidTestApp",
+    "id": "validTest-695973514",
+    "version": "1.0.0",
+    "type": "CP_ANDROID",
+    "is_companion_app": false
+  },
+  "imports_sdk": {
+    "triggers_min_version": "4.3.0",
+    "triggers_max_version": "4.3.0",
+    "cpruntime_min_version": "1.0.0"
+  }
+}
